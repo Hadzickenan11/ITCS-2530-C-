@@ -1,5 +1,0 @@
-XRC_ADD_FILE	/Users/kenanhadzic/Desktop/ITCS 2530 C++/ITCS 2530 C++/Project1/wxcrafter_bitmaps.cpp	/^    #define XRC_ADD_FILE(name, data, size, mime) \\$/;"	macro	line:17
-XRC_ADD_FILE	/Users/kenanhadzic/Desktop/ITCS 2530 C++/ITCS 2530 C++/Project1/wxcrafter_bitmaps.cpp	/^    #define XRC_ADD_FILE(name, data, size, mime) \\$/;"	macro	line:20
-xml_res_size_0	/Users/kenanhadzic/Desktop/ITCS 2530 C++/ITCS 2530 C++/Project1/wxcrafter_bitmaps.cpp	/^static size_t xml_res_size_0 = 51;$/;"	variable	line:24
-xml_res_file_0	/Users/kenanhadzic/Desktop/ITCS 2530 C++/ITCS 2530 C++/Project1/wxcrafter_bitmaps.cpp	/^static unsigned char xml_res_file_0[] = {$/;"	variable	line:25
-wxC9ED9InitBitmapResources	/Users/kenanhadzic/Desktop/ITCS 2530 C++/ITCS 2530 C++/Project1/wxcrafter_bitmaps.cpp	/^void wxC9ED9InitBitmapResources()$/;"	function	line:30	signature:()	returns:void 
